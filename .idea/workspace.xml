@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78ec6c2d-2645-4ed2-aed8-5e9d10f05824" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module-2/break_on_condition.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-2/fibonacci_series_printing_using_a_function.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-2/looping_with_increment_using_a_function.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-2/skip_multiples_of_5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-3/task_1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-3/task_2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-3/task_3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-3/task_4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-3/task_5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +29,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2VG4msxXoCMvq68u7lvogeq7KyC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,7 +62,9 @@
       <workItem from="1694449247317" duration="1709000" />
       <workItem from="1694452611357" duration="123000" />
       <workItem from="1694454629421" duration="11599000" />
-      <workItem from="1695047230106" duration="3620000" />
+      <workItem from="1695047230106" duration="3775000" />
+      <workItem from="1695651534732" duration="4204000" />
+      <workItem from="1695702901091" duration="3568000" />
     </task>
     <servers />
   </component>
