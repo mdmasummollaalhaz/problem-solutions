@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78ec6c2d-2645-4ed2-aed8-5e9d10f05824" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module-4/productDetails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-5/admin_dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-5/data/users.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-5/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-5/project_info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module-5/register.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +51,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/module-5/data" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +70,9 @@
       <workItem from="1695047230106" duration="3775000" />
       <workItem from="1695651534732" duration="4204000" />
       <workItem from="1695702901091" duration="3568000" />
-      <workItem from="1696259111487" duration="3151000" />
+      <workItem from="1696259111487" duration="3287000" />
+      <workItem from="1696263799301" duration="603000" />
+      <workItem from="1698243879052" duration="1458000" />
     </task>
     <servers />
   </component>
